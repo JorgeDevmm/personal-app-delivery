@@ -1,0 +1,8 @@
+node_modules/
+src/
+
+# Archivos de configuración de Gulp
+gulpfile.js
+
+# Archivos de dependencias de Node.js
+package-lock.json
