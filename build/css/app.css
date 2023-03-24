@@ -554,7 +554,7 @@ h3 {
   display: block;
 }
 .pasos__grid {
-  padding: 2.8rem;
+  overflow: hidden;
 }
 @media (min-width: 768px) {
   .pasos__grid {
