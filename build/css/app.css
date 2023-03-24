@@ -553,6 +553,9 @@ h3 {
   font-size: 1.8rem;
   display: block;
 }
+.pasos__grid {
+  padding: 2.8rem;
+}
 @media (min-width: 768px) {
   .pasos__grid {
     display: grid;
@@ -568,7 +571,7 @@ h3 {
   transition-timing-function: ease-in-out;
 }
 .pasos__imagen:hover {
-  -webkit-transform: rotate(-4deg) scale(1.2);
-          transform: rotate(-4deg) scale(1.2);
+  -webkit-transform: rotate(-4deg) scale(1.1);
+          transform: rotate(-4deg) scale(1.1);
 }
 /*# sourceMappingURL=app.css.map */
